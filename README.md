@@ -1,3 +1,1 @@
-# Android-View-Model
-# Android-View-Model
-# Android-View-Model
+# Submission view model project managing 2021
